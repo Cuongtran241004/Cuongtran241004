@@ -1,29 +1,18 @@
-# 👋 Hi, I’m Tran Quoc Cuong (@cuongtran24)
+# 👋 Hi, I'm Tran Quoc Cuong
 
-### 🚀 Software Engineering Student @ FPT University HCM
-"Building the future of EdTech, FinTech, and Startups through Backend, Cloud, and Agentic AI."
-
----
-
-### 🔍 My Research & Interests:
-*   **Agentic AI:** Developing autonomous AI agents to personalize education and simplify financial management.
-*   **Backend & Cloud:** Architecting scalable, secure, and cost-efficient infrastructures for modern startups.
-*   **Domain Focus:** Leveraging technology to solve real-world problems in **Education (EdTech)**, **Finance (FinTech)**, and the **Startup Ecosystem**.
+**Software Engineering @ FPT University HCM**
+*Focusing on: EdTech | FinTech | Startups*
 
 ---
 
-### 🌱 Current Status:
-*   📫 **Reach me at:** [cuongtran.241004@gmail.com](mailto:cuongtran.241004@gmail.com)
-*   📞 **Phone:** +84 867 016 729
-*   💬 **Open for:** Collaboration on open-source projects, startup MVPs, and AI research.
+### ⚡ Technical Focus
+- **Backend & Cloud:** Scalable infrastructure and robust system design.
+- **Agentic AI:** Autonomous agents for personalized learning and finance.
+- **Research:** Innovation in the startup ecosystem.
 
----
+### 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
 
-### 🛠️ Tech Stack:
-![Java](https://img.shields.io) 
-![Python](https://img.shields.io)
-![Cloud](https://img.shields.io)
-![AI Agents](https://img.shields.io)
-
----
-"Always learning, always building."
+### 📫 Contact
+- **Gmail:** [cuongtran.241004@gmail.com](mailto:cuongtran.241004@gmail.com)
+- **Phone:** 0867016729
