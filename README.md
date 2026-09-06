@@ -1,19 +1,19 @@
-# 👋 Hi, I'm Tran Quoc Cuong
+# Hi, I'm Tran Quoc Cuong
 
 **Software Engineering Student @ FPT University HCM**  
 *Specializing in Scalable Systems, Agentic AI, and Startup Innovation*
 
 ---
 
-### 🚀 Professional Profile
+### Professional Profile
 I am a Software Engineer focused on the intersection of **FinTech** and **EdTech**. My work revolves around building high-performance backend architectures and leveraging **Agentic AI** to create autonomous, personalized user experiences. I thrive in the fast-paced environment of startups, bridging the gap between innovative research and robust system design.
 
-### ⚡ Strategic Focus
+### Strategic Focus
 - **Backend & Cloud Architecture:** Engineering scalable, resilient infrastructures that power modern applications.
 - **Autonomous Systems:** Developing Agentic AI frameworks tailored for financial literacy and personalized education.
 - **Ecosystem Research:** Analyzing startup dynamics to drive technical innovation and product-market fit.
 
-### 🛠️ Tech Stack
+### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,java,py,aws,cpp,css,docker)](https://skillicons.dev)
 
 
